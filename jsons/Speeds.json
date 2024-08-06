@@ -1,0 +1,29 @@
+[
+	{
+        "name": "Speed Game",
+        "modifier": 0.3,
+        "productionCostModifier": 0.3,
+        "goldCostModifier": 0.3,
+        "scienceCostModifier": 0.3,
+        "cultureCostModifier": 0.3,
+        "improvementBuildLengthModifier": 0.45,
+        "barbarianModifier": 0.3,
+        "goldGiftModifier": 1,
+        "cityStateTributeScalingInterval": 5,
+        "goldenAgeLengthModifier": 1,
+        "religiousPressureAdjacentCity": 9,
+        "peaceDealDuration": 5,
+        "dealDuration": 10,
+        "startYear": 0,
+        "turns": [
+            {"yearsPerTurn": 60, "untilTurn":  25},
+            {"yearsPerTurn": 40, "untilTurn":  40},
+            {"yearsPerTurn": 30, "untilTurn": 50},
+            {"yearsPerTurn": 20, "untilTurn": 65},
+            {"yearsPerTurn": 10, "untilTurn": 77},
+            {"yearsPerTurn":  5, "untilTurn": 100},
+            {"yearsPerTurn":  2, "untilTurn": 130},
+            {"yearsPerTurn":  1, "untilTurn": 165}
+        ]
+    },
+]
